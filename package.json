@@ -4,7 +4,8 @@
     "scripts": {
         "dev": "vite",
         "build": "tsc && vite build",
-        "serve": "vite preview"
+        "serve": "vite preview",
+        "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\""
     },
     "dependencies": {
         "@reduxjs/toolkit": "^1.6.1",
