@@ -1,4 +1,4 @@
-# React, Typescript, Tailwindcss, Redux Toolkit, eslint whit Vite
+# React, Typescript, Tailwindcss, Redux Toolkit, eslint with Vite
 
 This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org/) + [Tailwind](https://tailwindcss.com/) + [RTK](https://redux-toolkit.js.org/) + [eslint](https://eslint.org/) boilerplate built with [Vite](https://vitejs.dev).
 
