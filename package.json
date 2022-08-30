@@ -11,7 +11,7 @@
     "@reduxjs/toolkit": "^1.6.1",
     "react": "^18",
     "react-dom": "^18",
-    "react-redux": "^7.2.6"
+    "react-redux": "^8.0.2"
   },
   "devDependencies": {
     "@types/react": "^17.0.33",
@@ -20,7 +20,7 @@
     "@typescript-eslint/parser": "^5.4.0",
     "@vitejs/plugin-react-refresh": "^1.3.1",
     "autoprefixer": "^10.4.0",
-    "eslint": "^8.1.0",
+    "eslint": "^8.23.0",
     "eslint-plugin-react": "^7.26.0",
     "eslint-plugin-react-hooks": "^4.3.0",
     "postcss": "^8.4.5",
